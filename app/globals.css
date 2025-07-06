@@ -179,7 +179,7 @@ body {
     @apply rounded-4xl border border-black px-7 pt-7 pb-10 max-lg:w-full bg-white;
   }
   .companion-limit {
-    @apply items-center justify-center flex flex-col gap-4 w-full min-2xl:w-1/2 pt-20 text-center;
+    @apply items-center justify-center flex flex-col gap-4 w-full min-2xl:w-1/2 text-center;
   }
 
   .companion-section {
@@ -205,7 +205,7 @@ body {
   }
 
   .transcript {
-    @apply relative flex flex-col gap-4 w-full items-center pt-10 flex-grow overflow-hidden;
+    @apply relative flex flex-col gap-4 w-full items-center pt-5 flex-grow overflow-hidden;
   }
   .transcript-message {
     @apply overflow-y-auto w-full flex flex-col gap-4 max-sm:gap-2 pr-2 h-full text-2xl;
