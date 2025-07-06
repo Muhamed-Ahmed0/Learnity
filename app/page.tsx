@@ -11,15 +11,15 @@ const Page = () => {
 
       <section className="home-section">
         <CompanionCard
-          id="301"
+          id="a7b84aa1-fcc9-4e99-b822-8536598f2ec5"
           name="Neura the Brainy Explorer"
           topic="Neural Network of the Brain"
           subject="science"
-          duration={45}
+          duration={20}
           color="#E5D0FF"
         />
         <CompanionCard
-          id="212"
+          id="7de1a84f-d0f1-4181-8cea-663ed2a22f98"
           name="Countsy the Number Wizard"
           topic="Derivatives & Integrals"
           subject="maths"
@@ -27,7 +27,7 @@ const Page = () => {
           color="#FFDA6E"
         />
         <CompanionCard
-          id="653"
+          id="98518fc9-6a88-487b-a143-d50b4c044b50"
           name="Verba the Vocabulary Builder"
           topic="English Literature"
           subject="language"
